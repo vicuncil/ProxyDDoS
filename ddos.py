@@ -36,9 +36,7 @@ ip_list_urls = [
     "https://www.proxynova.com/proxy-server-list/",
     "https://proxybros.com/free-proxy-list/",
     "https://proxydb.net/",
-    "https://spys.one/en/free-proxy-list/",
-    "http://free-proxy.cz/en/",
-    
+    "https://spys.one/en/free-proxy-list/",  
 ]
 
 async def fetch_ip_addresses(url):

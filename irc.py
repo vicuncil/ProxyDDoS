@@ -7,7 +7,6 @@ import itertools
 app = Flask(__name__)
 socketio = SocketIO(app, async_mode='eventlet')
 
-
 target_url = ""
 ip_list_urls = [
     "https://www.us-proxy.org",

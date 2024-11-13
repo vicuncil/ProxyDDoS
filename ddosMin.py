@@ -15,7 +15,6 @@ UserAgents = [
 ]
 
 
-
 ip_list_urls = [
     "https://www.us-proxy.org",
     "https://www.socks-proxy.net",

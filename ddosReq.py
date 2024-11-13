@@ -36,7 +36,6 @@ ip_list_urls = [
     "https://www.proxynova.com/proxy-server-list/",
     "https://proxybros.com/free-proxy-list/",
     "https://proxydb.net/",
-    "http://free-proxy.cz/en/",
     "https://spys.one/en/free-proxy-list/",
 ]
 

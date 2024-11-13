@@ -3,7 +3,6 @@ import aiohttp
 import random
 from colorama import Fore
 
-
 target_url = input("Enter URL: ")
 
 # API keys
